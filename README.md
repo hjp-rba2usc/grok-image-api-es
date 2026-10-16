@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-22da61) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [grok-image-prompts-es](https://github.com/hjp-rba2usc/grok-image-prompts-es)
+- **Same model, other languages** — 9 more language builds: 中文 `grok-image-api-cn` · Deutsch [grok-image-api-de](https://github.com/o10sh4cma/grok-image-api-de) · Français `grok-image-api-fr` · Relay/gateway [grok-image-api-gateway](https://github.com/apimarttyaxy/grok-image-api-gateway) · Bahasa [grok-image-api-id](https://github.com/b09l-tuh/grok-image-api-id) · 日本語 [grok-image-api-ja](https://github.com/i0hziz/grok-image-api-ja) · 한국어 [grok-image-api-ko](https://github.com/dgihsnwb08756/grok-image-api-ko) · Português [grok-image-api-pt](https://github.com/bhaiiya1p6r32/grok-image-api-pt) · Русский [grok-image-api-ru](https://github.com/xpu7s80na/grok-image-api-ru)
+- **More models in this language** — [midjourney-api-es](https://github.com/xbuu0/midjourney-api-es) · [gemini-2-5-flash-image-preview-api-es](https://github.com/ekw3w/gemini-2-5-flash-image-preview-api-es) · [nano-banana-api-es](https://github.com/gbm5mfl1/nano-banana-api-es) · [gemini-3-1-flash-image-preview-api-es](https://github.com/x3kcczm8l29xn/gemini-3-1-flash-image-preview-api-es) · [nano-banana-2-api-es](https://github.com/d63hy9t-4pp/nano-banana-2-api-es) · [gemini-3-pro-image-preview-api-es](https://github.com/uv9d8/gemini-3-pro-image-preview-api-es)
+- **Topic hubs** — every build of this model, all languages: [grok-image](https://github.com/topics/grok-image) · [grok-image-api](https://github.com/topics/grok-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
